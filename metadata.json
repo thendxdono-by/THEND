@@ -1,0 +1,6 @@
+{
+  "name": "T H E N D",
+  "description": "An immersive, premium 3D temporal-spatial simulator and luxury concept chronicle for the ultimate cognitive device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
